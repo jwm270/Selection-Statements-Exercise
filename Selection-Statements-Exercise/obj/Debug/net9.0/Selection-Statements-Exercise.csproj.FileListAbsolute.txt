@@ -1,0 +1,14 @@
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\bin\Debug\net9.0\Selection-Statements-Exercise.exe
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\bin\Debug\net9.0\Selection-Statements-Exercise.deps.json
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\bin\Debug\net9.0\Selection-Statements-Exercise.runtimeconfig.json
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\bin\Debug\net9.0\Selection-Statements-Exercise.dll
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\bin\Debug\net9.0\Selection-Statements-Exercise.pdb
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.AssemblyInfoInputs.cache
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.AssemblyInfo.cs
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.dll
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\refint\Selection-Statements-Exercise.dll
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.pdb
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.genruntimeconfig.cache
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\ref\Selection-Statements-Exercise.dll
