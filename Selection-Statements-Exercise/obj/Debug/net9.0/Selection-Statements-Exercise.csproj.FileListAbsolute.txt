@@ -12,3 +12,4 @@ C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-St
 C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.pdb
 C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.genruntimeconfig.cache
 C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\ref\Selection-Statements-Exercise.dll
+C:\Users\jwm27\OneDrive\Desktop\repos\Selection-Statements-Exercise\Selection-Statements-Exercise\obj\Debug\net9.0\Selection-Statements-Exercise.sourcelink.json

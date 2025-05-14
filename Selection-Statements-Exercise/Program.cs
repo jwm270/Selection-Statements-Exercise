@@ -6,26 +6,32 @@
     class Program
     {
         static void Main(string[] args)
-        {
-            var r = new Random();
+        { 
+            var Random = new Random();
 
-            var favNumber = r.Next(1, 100);
+            var favNumber = Random.Next(1, 11);
 
-            Console.WriteLine("Guess my favorite number:");
+            int userInput = 0;
 
-            int userInput = int.Parse(Console.ReadLine());
-
-            if (favNumber < userInput)
+            while (userInput != favNumber)
             {
-                Console.WriteLine("Too High");
-            }
-            else if (userInput < favNumber)
-            {
-                Console.WriteLine("Too Low");
-            }
-            else
-            {
-                Console.WriteLine("You're psychic!");
+
+                Console.WriteLine("Guess my favorite number:");
+
+                userInput = int.Parse(Console.ReadLine());
+
+                if (favNumber < userInput)
+                {
+                    Console.WriteLine($"Too High!\nYourGuess:  {userInput}");
+                }
+                else if (userInput < favNumber)
+                {
+                    Console.WriteLine($"Too Low!\nYourGuess:  {userInput}");
+                }
+                else
+                {
+                    Console.WriteLine($"You're psychic!\nThe number is {favNumber}");
+                }
             }
         }
 
