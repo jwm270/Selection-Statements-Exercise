@@ -32,6 +32,7 @@
                 {
                     Console.WriteLine($"You're psychic!\nThe number is {favNumber}");
                 }
+                //comment
             }
         }
 
